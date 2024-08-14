@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258778799148",
+    "project_id": "globalchatflutter",
+    "storage_bucket": "globalchatflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258778799148:android:9767a96d5c4435d9200589",
+        "android_client_info": {
+          "package_name": "com.dummyapps.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoYTlmURpZCsKLz6pmXI4XWZNmtiIiBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258778799148:android:92f1becc7d622a53200589",
+        "android_client_info": {
+          "package_name": "com.dummyapps.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoYTlmURpZCsKLz6pmXI4XWZNmtiIiBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
